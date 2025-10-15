@@ -24,7 +24,7 @@
 আপনার একটি **Google Firebase Project** থাকতে হবে।
 
 - নিশ্চিত করুন যে **Firestore Database** সক্রিয় (enabled) আছে।
-- আপনার **Security Rules** নিচের মতো সেট করুন:
+- আপনার **Security Rules** নিচের মতো সেট করুন, অথবা এই [লিঙ্ক](https://github.com/julfikerhossenshebbir/kshonmail/blob/main/firestore.rules) থেকে সংগ্রহ করতে পারেন:
 
 ```js
 rules_version = '2';
@@ -204,5 +204,5 @@ If you face any issue or need assistance, contact the developer:
 ---
 
 🧠 **Developed by:** [Julfiker Hossen Shebbir](https://mdjhs.com)  
-🚀 **Project:** [KshonMail](https://kshonmail.netlify.app/)  
-📄 **License:** MIT
+🚀 **Project:** [KshonMail](https://github.com/julfikerhossenshebbir/kshonmail)  
+📄 **License:** [Apache License](./LICENSE)
