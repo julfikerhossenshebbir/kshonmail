@@ -204,5 +204,5 @@ If you face any issue or need assistance, contact the developer:
 ---
 
 🧠 **Developed by:** [Julfiker Hossen Shebbir](https://mdjhs.com)  
-🚀 **Project:** [KshonMail](https://github.com/julfikerhossenshebbir/kshonmail)  
+🚀 **Project:** [KshonMail](https://kshonmail.vercel.app/)  
 📄 **License:** [Apache License](./LICENSE)
