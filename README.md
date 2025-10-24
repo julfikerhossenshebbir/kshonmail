@@ -71,9 +71,9 @@ npm install
 ```env
 # IMAP সার্ভারের তথ্য (আপনার ক্যাচ-অল ইমেলের জন্য)
 IMAP_HOST="your-imap-host.com"
-IMAP_USER="your-catch-all-email@your-domain.com"
+IMAP_USER="your-catch-all-email@tamp-mail-domain.com"
 IMAP_PASSWORD="your-email-password"
-APP_DOMAIN="your-domain.com"
+APP_DOMAIN="tamp-mail-domain.com"
 
 # Firebase প্রজেক্ট কনফিগারেশন
 NEXT_PUBLIC_FIREBASE_API_KEY="AIza..."
@@ -171,9 +171,9 @@ Create a `.env` file in your project root and fill in the following:
 ```env
 # IMAP Server Details (for your catch-all email)
 IMAP_HOST="your-imap-host.com"
-IMAP_USER="your-catch-all-email@your-domain.com"
+IMAP_USER="your-catch-all-email@tamp-mail-domain.com"
 IMAP_PASSWORD="your-email-password"
-APP_DOMAIN="your-domain.com"
+APP_DOMAIN="tamp-mail-domain.com"
 
 # Your Firebase Project Configuration
 NEXT_PUBLIC_FIREBASE_API_KEY="AIza..."
@@ -187,9 +187,9 @@ NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID="G-ABCDEF1234"
 
 #### Step 3: Run the Application
 
-___bash
+```bash
 npm run dev
-___
+```
 
 Then open [http://localhost:3000](http://localhost:3000) in your browser.
 
